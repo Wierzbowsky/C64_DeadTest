@@ -1,11 +1,5 @@
 Partlist
 
-Exported from C64Cart.brd at 27-May-16 15:37
-
-EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
-
-Assembly variant: 
-
 Part     Value          Package      Library      Position (inch)       Orientation
 
 C1       100 nF         C050-025X075 rcl          (0.3 1.1)             R90
