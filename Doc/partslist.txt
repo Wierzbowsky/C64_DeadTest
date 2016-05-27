@@ -1,0 +1,24 @@
+Partlist
+
+Exported from C64Cart.brd at 27-May-16 15:37
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package      Library      Position (inch)       Orientation
+
+C1       100 nF         C050-025X075 rcl          (0.3 1.1)             R90
+C2       10 mF          E2-5         rcl          (0.75 1.95)           R90
+C3       10 mF          E2-5         rcl          (0.75 1.45)           R90
+D1       1N4148         DO35-7       diode        (0.3 2.15)            R0
+IC1      2764           DIL28        memory       (1.7 1.65)            R90
+JP1      ROML/ROMH      JP2          jumper       (1.1 1.1)             R90
+JP2      EXROM/IO2      JP1          jumper       (0.85 1.15)           R0
+JP3      GAME/GND       JP1          jumper       (0.6 1.15)            R0
+LED1     2.5V           LED3MM       led          (2 2.7)               R0
+R1       10 kOhm        0204/7       resistor     (0.3 1.9)             R0
+R2       12 kOhm        0204/7       resistor     (0.3 1.65)            R0
+R3       1 kOhm         0204/7       resistor     (0.3 1.4)             R180
+S1       RESET          B3F-31XX     switch-omron (0.15 2.55)           R270
+U$1      C64_CN         CARTRIDGE    C64          (2.15 1.1)            R0
